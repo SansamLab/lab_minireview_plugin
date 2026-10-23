@@ -1,0 +1,13 @@
+{
+  "name": "lab-minireview",
+  "version": "0.1.0",
+  "description": "End-to-end lab minireview pipeline: PubMed triage, full-text fetch, figure-level article summaries, optional EndNote import, and a ~2000-word Word minireview with a Current Opinion-style annotated bibliography.",
+  "keywords": [
+    "literature review",
+    "minireview",
+    "pubmed",
+    "endnote",
+    "research"
+  ],
+  "license": "MIT"
+}
