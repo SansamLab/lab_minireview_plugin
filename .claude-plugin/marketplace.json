@@ -1,0 +1,19 @@
+{
+  "name": "lab-minireview-marketplace",
+  "owner": {
+    "name": "Chris Sansam"
+  },
+  "metadata": {
+    "description": "Claude plugins for writing and verifying literature minireviews."
+  },
+  "plugins": [
+    {
+      "name": "lab-minireview",
+      "source": "./plugins/lab-minireview",
+      "description": "End-to-end minireview pipeline: PubMed triage, full-text fetch, figure-level summaries, optional EndNote import, a Word minireview with annotated bibliography, plus claim-by-claim verification against the cited papers and a skeptical reviewer.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["literature review", "minireview", "pubmed", "endnote", "research", "fact-checking"]
+    }
+  ]
+}
